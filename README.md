@@ -3,5 +3,7 @@ Pierwsza część projektu - aplikacja webowa będąca podstawą do tworzenia ap
 
 Na pierwszą iterację projetku składa się:
   - Baza danych [MS SQL]
+    (poglądowy png z diagramem bazy: https://github.com/226205/BiR_Project-Praca_Inzynierska/blob/master/baza.png)
   - Aplikacja webowa [Python Flask, React]
-  - Dokumentacja - Praca Inż [LaTeX] aktualna wersja do znalezienia pod adresem: https://www.overleaf.com/project/5e138b2a9e92350001634d81
+  - Dokumentacja [LaTeX] 
+    (aktualna wersja do znalezienia pod adresem: https://www.overleaf.com/project/5e138b2a9e92350001634d81)
